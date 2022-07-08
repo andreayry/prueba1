@@ -2,4 +2,6 @@ td {
     border-style: solid;
     border-color: red;
   }
-  
+  body {
+  background-color: lightblue;
+}
